@@ -1,0 +1,31 @@
+body {
+  background-image: none;
+  background-color: antiquewhite;
+}
+
+.custom-pink-bg {
+    background-color: #bf5b72;
+}
+
+.custom-melon-bg {
+    background-color: #deaf9d;
+}
+
+.custom-blue-bg {
+    background-color: #669b9a;
+}
+
+.paris-font {
+    font-family: 'Parisienne', cursive;
+}
+
+@media (min-width: 576px) {
+    #hero-img {
+        margin-top: 0;
+        width: 50%;
+    }
+}
+
+#hero-img {
+    margin-top: 1em;
+}
