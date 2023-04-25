@@ -49,13 +49,11 @@ body {
     font-family: 'Parisienne', cursive;
 }
 
-@media (min-width: 576px) {
-    #hero-img {
-        margin-top: 0;
-        width: 50%;
-    }
+.git-link {
+    color: black;
+    text-decoration: none;
 }
 
-#hero-img {
-    margin-top: 1em;
+.git-link:hover {
+    color: black;
 }
