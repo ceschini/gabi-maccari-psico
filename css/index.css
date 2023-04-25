@@ -1,3 +1,25 @@
+@font-face {
+    font-family: Pottery;
+    src:url("/assets/fonts/pottery_gifts.ttf")
+}
+
+@font-face {
+    font-family: Visby;
+    src:url("/assets/fonts/VisbyCF-Medium.otf")
+}
+
+.pottery-font {
+    font-family: Pottery;
+}
+
+.visby-font {
+    font-family: Visby;
+}
+
+.logo-icon {
+    font-weight: bold;
+}
+
 body {
   background-image: none;
   background-color: #F9F6EE;
@@ -13,6 +35,14 @@ body {
 
 .custom-blue-bg {
     background-color: #669b9a;
+}
+
+.custom-pink-font {
+    color: #B13D55;
+}
+
+.custom-melon-font {
+    color: #516C6B;
 }
 
 .paris-font {
