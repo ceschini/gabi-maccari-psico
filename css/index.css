@@ -1,63 +1,71 @@
 @font-face {
-    font-family: Pottery;
-    src:url("/assets/fonts/pottery_gifts.ttf")
+  font-family: Pottery;
+  src: url('/assets/fonts/pottery_gifts.ttf');
 }
 
 @font-face {
-    font-family: Visby;
-    src:url("/assets/fonts/VisbyCF-Medium.otf")
+  font-family: Visby;
+  src: url('/assets/fonts/VisbyCF-Medium.otf');
 }
 
 .pottery-font {
-    font-family: Pottery;
+  font-family: Pottery;
 }
 
 .visby-font {
-    font-family: Visby;
+  font-family: Visby;
 }
 
 .logo-icon {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 body {
   background-image: none;
-  background-color: #F9F6EE;
+  background-color: #f9f6ee;
 }
 
 .custom-pink-bg {
-    background-color: #B13D55;
+  background-color: #b13d55;
 }
 
 .custom-melon-bg {
-    background-color: #516C6B;
+  background-color: #516c6b;
 }
 
 .custom-blue-bg {
-    background-color: #669b9a;
+  background-color: #669b9a;
 }
 
 .custom-pink-font {
-    color: #B13D55;
+  color: #b13d55;
 }
 
 .custom-melon-font {
-    color: #516C6B;
+  color: #516c6b;
 }
 
 .paris-font {
-    font-family: 'Parisienne', cursive;
+  font-family: 'Parisienne', cursive;
 }
 
 .git-link {
-    color: black;
-    text-decoration: none;
+  color: black;
+  text-decoration: none;
 }
 
 .git-link:hover {
-    color: black;
+  color: black;
 }
 
 .hero-logo {
-    width: 15% !important;
+  width: 15% !important;
+}
+
+.hero-page {
+  background: url(../assets/img/hero-bg.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
