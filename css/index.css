@@ -57,3 +57,7 @@ body {
 .git-link:hover {
     color: black;
 }
+
+.hero-logo {
+    width: 15% !important;
+}
