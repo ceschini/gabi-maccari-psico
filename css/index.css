@@ -20,11 +20,6 @@
   font-weight: bold;
 }
 
-body {
-  background-image: none;
-  background-color: #f9f6ee;
-}
-
 .custom-pink-bg {
   background-color: #b13d55;
 }
@@ -71,6 +66,23 @@ body {
 }
 
 .intro-button > a:hover {
-    background-color: #bf5b75;
-    color: #f9f6ee;
+  background-color: #bf5b75;
+  color: #f9f6ee;
+}
+
+.insta-link {
+  color: black;
+  text-decoration: none;
+}
+
+.insta-link:hover {
+  color: #bf5b75;
+}
+
+.gabiwhite-bg {
+  background-color: #f9f6ee;
+}
+
+.whitesmoke-bg {
+  background-color: whitesmoke;
 }
