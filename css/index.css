@@ -86,3 +86,9 @@
 .whitesmoke-bg {
   background-color: whitesmoke;
 }
+
+@media (max-width: 767.98px) {
+    .gabi-logo {
+        width: 35% !important;
+    }
+}
