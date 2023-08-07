@@ -80,7 +80,7 @@
 }
 
 .gabiwhite-bg {
-  background-color: #f9f6ee;
+  background-color: snow;
 }
 
 .whitesmoke-bg {
@@ -100,4 +100,10 @@
 
 .about-therapy-font:hover {
   color: #bf5b75;
+}
+
+.bullet-icon {
+    font-size: xx-small;
+    padding-right: 0.5em;
+    line-height: 10px;
 }
