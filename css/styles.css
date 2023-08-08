@@ -783,6 +783,11 @@ progress {
   width: 25%;
 }
 
+.col-35 {
+  flex: 0 0 auto;
+  width: 30%;
+}
+
 .col-4 {
   flex: 0 0 auto;
   width: 33.33333333%;
